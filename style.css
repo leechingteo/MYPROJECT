@@ -1,0 +1,19 @@
+#bottom{
+    width:100%;
+    margin:0px auto;
+    height:60px;
+    background-color: #003366;
+    bottom:0px;
+    padding:0px;
+    position:fixed;
+    color:white;
+    
+}
+ul li:hover, body.Home a.Home, body.Register a.Register
+{ 
+    background-color: lightcyan; 
+} 
+
+.nopadding-two{
+    padding-right:45px !important;
+}
